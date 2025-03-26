@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/asma bejdidi" target="_blank">
+  <a href="https://www.linkedin.com/in/asma-b-741b19209/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DF826C&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/asmabej" target="_blank">
