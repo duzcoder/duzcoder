@@ -14,6 +14,7 @@
   <a href="https://medium.com/@bejdidi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=DF826C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
+  <a href="https://portfolioasmab.vercel.app/">Portfolio</a>
 </div>
 
 ###
