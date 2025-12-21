@@ -71,5 +71,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="Your Image Badge" align="center" />
 
