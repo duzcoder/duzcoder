@@ -40,14 +40,9 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 <br>
 
 <h3>⚡ Special cards:</h3>
-<table>
-  <tr>
-    <td><div align="center">
+<div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
-</div></td>
-    <td><img src="https://img.shields.io/badge/Chess.com-Blitz_1380-blue"></td>
-  </tr>
-</table>
+</div>
 
 
 
