@@ -41,7 +41,7 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 
 <h3><img src="board1.png" width="20px" height="20px"> U like reading?</h3>
 <p>Catch me up on medium:</p>
-[![Duzcoder Medium](https://github-readme-medium.vercel.app/?username=bejdidi)](https://medium.com/@bejdidi)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"> 
 
 <br>
 
