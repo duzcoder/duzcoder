@@ -9,29 +9,32 @@
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
 
-<div>
-  <h3>🛠 Tech Stack:</h3>
-  <img src="html5.svg" alt="HTML" width="70px" height="70px">
-  <img src="css.svg" alt="CSS" width="70px" height="70px">
-  <img src="uml.svg" alt="UML" width="70px" height="70px">
-  <img src="php.svg" alt="PHP" width="70px" height="70px">
-  <img src="mysql.svg" alt="MySQL" width="70px" height="70px">
-  <br>
-  <img src="laravel.svg" alt="Laravel" width="70px" height="70px">
-  <img src="bootstrap.svg" alt="Bootstrap" width="70px" height="70px">
-  <img src="tailwindcss.svg" alt="Tailwind" width="70px" height="70px">
-  <img src="c.svg" alt="C" width="70px" height="70px">
-  <img src="python.svg" alt="Python" width="70px" height="70px">
-  <br>
-  <h3>💻 Environment:</h3>
-  <img src="linux.svg" alt="Linux" width="70px" height="70px">
-  <img src="burpsuite.svg" alt="Burpsuite" width="70px" height="70px">
-  <img src="sublimetext.svg" alt="Sublime" width="70px" height="70px">
-  <img src="jupyter.svg" alt="Jupyter" width="70px" height="70px">
-  <img src="figma.svg" alt="Figma" width="70px" height="70px">
-</div>
-
-
+<table>
+  <tr>
+    <td>
+      <h3>🛠 Tech Stack:</h3>
+      <img src="html5.svg" alt="HTML" width="70px" height="70px">
+      <img src="css.svg" alt="CSS" width="70px" height="70px">
+      <img src="uml.svg" alt="UML" width="70px" height="70px">
+      <img src="php.svg" alt="PHP" width="70px" height="70px">
+      <img src="mysql.svg" alt="MySQL" width="70px" height="70px">
+      <br>
+      <img src="laravel.svg" alt="Laravel" width="70px" height="70px">
+      <img src="bootstrap.svg" alt="Bootstrap" width="70px" height="70px">
+      <img src="tailwindcss.svg" alt="Tailwind" width="70px" height="70px">
+      <img src="c.svg" alt="C" width="70px" height="70px">
+      <img src="python.svg" alt="Python" width="70px" height="70px">
+    </td>
+    <td>
+      <h3>💻 Environment:</h3>
+      <img src="linux.svg" alt="Linux" width="70px" height="70px">
+      <img src="burpsuite.svg" alt="Burpsuite" width="70px" height="70px">
+      <img src="sublimetext.svg" alt="Sublime" width="70px" height="70px">
+      <img src="jupyter.svg" alt="Jupyter" width="70px" height="70px">
+      <img src="figma.svg" alt="Figma" width="70px" height="70px">
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
