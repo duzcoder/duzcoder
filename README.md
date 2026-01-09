@@ -3,7 +3,7 @@
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
   <p>
-    <h3>✨Wanna know me?</h3>
+    <h2>✨Wanna know me?</h2>
     <br>
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
@@ -11,8 +11,8 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 <br>
 <table>
   <tr>
-    <td><h3>🛠 Tech Stack:</h3></td>
-    <td><h3>💻 Environment:</h3></td>
+    <td><h2>🛠 Tech Stack:</h2></td>
+    <td><h2>💻 Environment:</h2></td>
   </tr>
   <tr>
     <td>
@@ -39,15 +39,15 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </table>
 <br>
 
-<h3><img src="board1.png" width="20px" height="20px"> U like reading?</h3>
+<h2><img src="board1.png" width="20px" height="20px"> U like reading?</h2>
 <p>Catch me up on medium:</p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
 <br>
 
-<h3>⚡ Special cards:</h3>
+<h2>⚡ Special cards:</h2>
 <div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
 </div>
 
-<h3><img src="black-chess-pawn_265f.png" width="40px" height="40px"> Checkmate !</h3>
+<h2><img src="black-chess-pawn_265f.png" width="40px" height="40px"> Checkmate !</h2>
 <img src="board1.png" width="200px" height="200px">   <img src="board2.png" width="200px" height="200px">   <img src="board3.png" width="200px" height="200px">
