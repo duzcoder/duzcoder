@@ -10,7 +10,7 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 
 <div>
   <h3>Tech Stack:</h3>
-  <img src="html5.svg" alt="HTML">
+  <img src="html5.svg" alt="HTML" width="20px" height="20px">
   <img src="css.svg" alt="CSS">
   <img src="uml.svg" alt="UML">
   <img src="php.svg" alt="PHP">
