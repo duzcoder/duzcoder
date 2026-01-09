@@ -39,7 +39,7 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </table>
 <br>
 
-<h2><img src="newspaper_1f4f0.png" width="40px" height="40px"> U like reading?</h2>
+<h2><img src="newspaper_1f4f0.png" width="30px" height="30px"> U like reading?</h2>
 <p>Catch me up on medium:</p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
 <br>
