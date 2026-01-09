@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="53332b749696c364040c4b1542486d0d.gif">
+<img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
 </div>
