@@ -11,8 +11,11 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 
 <table>
   <tr>
+    <td><h3>🛠 Tech Stack:</h3></td>
+    <td><h3>💻 Environment:</h3></td>
+  </tr>
+  <tr>
     <td>
-      <h3>🛠 Tech Stack:</h3>
       <img src="html5.svg" alt="HTML" width="70px" height="70px">
       <img src="css.svg" alt="CSS" width="70px" height="70px">
       <img src="uml.svg" alt="UML" width="70px" height="70px">
@@ -26,7 +29,6 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
       <img src="python.svg" alt="Python" width="70px" height="70px">
     </td>
     <td>
-      <h3>💻 Environment:</h3>
       <img src="linux.svg" alt="Linux" width="70px" height="70px">
       <img src="burpsuite.svg" alt="Burpsuite" width="70px" height="70px">
       <img src="sublimetext.svg" alt="Sublime" width="70px" height="70px">
