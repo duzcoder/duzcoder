@@ -51,3 +51,4 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 
 <h2><img src="black-chess-pawn_265f.png" width="40px" height="40px"> Checkmate !</h2>
 <img src="board1.png" width="200px" height="200px">   <img src="board2.png" width="200px" height="200px">   <img src="board3.png" width="200px" height="200px">
+![Snake animation](https://github.com/duzcoder/duzcoder/blob/output/github-contribution-grid-snake.svg)
