@@ -9,22 +9,24 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
 
 <div>
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
+  <h3>Tech Stack:</h3>
+  <img src="html5.svg" alt="HTML">
+  <img src="css.svg" alt="CSS">
+  <img src="uml.svg" alt="UML">
+  <img src="php.svg" alt="PHP">
+  <img src="mysql.svg" alt="MySQL">
+  <img src="laravel.svg" alt="Laravel">
+  <img src="bootstrap.svg" alt="Bootstrap">
+  <img src="tailwindcss.sgv" alt="Tailwind">
+  <img src="c.svg" alt="C">
+  <img src="python.svg" alt="Python">
+  <br>
+  <h3>Environment:</h3>
+  <img src="linux.svg" alt="Linux">
+  <img src="burpsuite?svg" alt="Burpsuite">
+  <img src="sublimetext.svg" alt="Sublime">
+  <img src="jupyter.svg" alt="Jupyter">
+  <img src="figma.svg" alt="Figma">
   <img src="" alt="">
   <img src="" alt="">
   <img src="" alt="">
