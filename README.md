@@ -1,6 +1,10 @@
 <div align="center">
 
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
+<div>
+  <p>Curious mind. Terminal open. Limits questioned.
+Building apps, designing visuals, hacking knowledge, shipping progress.</p>
+</div>
 <div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
 </div>
