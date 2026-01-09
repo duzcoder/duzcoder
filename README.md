@@ -3,7 +3,7 @@
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
   <p>
-    <h2>✨Wanna know me?</h2>
+    <h2><img src="cloud_2601-fe0f.png" width="40px" height="40px">Wanna know me?</h2>
     <br>
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
@@ -11,8 +11,8 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 <br>
 <table>
   <tr>
-    <td><h2>🛠 Tech Stack:</h2></td>
-    <td><h2>💻 Environment:</h2></td>
+    <td><h3>🛠 Tech Stack:</h3></td>
+    <td><h3>💻 Environment:</h3></td>
   </tr>
   <tr>
     <td>
@@ -39,12 +39,12 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </table>
 <br>
 
-<h2><img src="board1.png" width="20px" height="20px"> U like reading?</h2>
+<h2><img src="newspaper_1f4f0.png" width="20px" height="20px"> U like reading?</h2>
 <p>Catch me up on medium:</p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
 <br>
 
-<h2>⚡ Special cards:</h2>
+<h2><img src="high-voltage_26a1.png" width="40px" height="40px"> Special cards:</h2>
 <div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
 </div>
