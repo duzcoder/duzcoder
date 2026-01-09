@@ -16,24 +16,24 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
   </tr>
   <tr>
     <td>
-      <img src="html5.svg" alt="HTML" width="50px" height="50px">
+      <img src="html5.svg" alt="HTML" width="50px" height="50px">&nbsp;
       <img src="css.svg" alt="CSS" width="50px" height="50px">&nbsp;
       <img src="uml.svg" alt="UML" width="50px" height="50px">&nbsp;
-      <img src="php.svg" alt="PHP" width="50px" height="50px">
-      <img src="mysql.svg" alt="MySQL" width="50px" height="50px">
+      <img src="php.svg" alt="PHP" width="50px" height="50px">&nbsp;
+      <img src="mysql.svg" alt="MySQL" width="50px" height="50px">&nbsp;
       <br>
-      <img src="laravel.svg" alt="Laravel" width="50px" height="50px">
-      <img src="bootstrap.svg" alt="Bootstrap" width="50px" height="50px">
-      <img src="tailwindcss.svg" alt="Tailwind" width="50px" height="50px">
-      <img src="c.svg" alt="C" width="50px" height="50px">
-      <img src="python.svg" alt="Python" width="50px" height="50px">
+      <img src="laravel.svg" alt="Laravel" width="50px" height="50px">&nbsp;
+      <img src="bootstrap.svg" alt="Bootstrap" width="50px" height="50px">&nbsp;
+      <img src="tailwindcss.svg" alt="Tailwind" width="50px" height="50px">&nbsp;
+      <img src="c.svg" alt="C" width="50px" height="50px">&nbsp;
+      <img src="python.svg" alt="Python" width="50px" height="50px">&nbsp;
     </td>
     <td>
-      <img src="linux.svg" alt="Linux" width="50px" height="50px">
-      <img src="burpsuite.svg" alt="Burpsuite" width="50px" height="50px">
-      <img src="sublimetext.svg" alt="Sublime" width="50px" height="50px">
-      <img src="jupyter.svg" alt="Jupyter" width="50px" height="50px">
-      <img src="figma.svg" alt="Figma" width="50px" height="50px">
+      <img src="linux.svg" alt="Linux" width="50px" height="50px">&nbsp;
+      <img src="burpsuite.svg" alt="Burpsuite" width="50px" height="50px">&nbsp;
+      <img src="sublimetext.svg" alt="Sublime" width="50px" height="50px">&nbsp;
+      <img src="jupyter.svg" alt="Jupyter" width="50px" height="50px">&nbsp;
+      <img src="figma.svg" alt="Figma" width="50px" height="50px">&nbsp;
     </td>
   </tr>
 </table>
