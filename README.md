@@ -10,27 +10,23 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 
 <div>
   <h3>Tech Stack:</h3>
-  <img src="html5.svg" alt="HTML" width="70px" height="70px" >
-  <img src="css.svg" alt="CSS">
-  <img src="uml.svg" alt="UML">
-  <img src="php.svg" alt="PHP">
-  <img src="mysql.svg" alt="MySQL">
-  <img src="laravel.svg" alt="Laravel">
-  <img src="bootstrap.svg" alt="Bootstrap">
-  <img src="tailwindcss.sgv" alt="Tailwind">
-  <img src="c.svg" alt="C">
-  <img src="python.svg" alt="Python">
+  <img src="html5.svg" alt="HTML" width="70px" height="70px">
+  <img src="css.svg" alt="CSS" width="70px" height="70px">
+  <img src="uml.svg" alt="UML" width="70px" height="70px">
+  <img src="php.svg" alt="PHP" width="70px" height="70px">
+  <img src="mysql.svg" alt="MySQL" width="70px" height="70px">
+  <img src="laravel.svg" alt="Laravel" width="70px" height="70px">
+  <img src="bootstrap.svg" alt="Bootstrap" width="70px" height="70px">
+  <img src="tailwindcss.sgv" alt="Tailwind" width="70px" height="70px">
+  <img src="c.svg" alt="C" width="70px" height="70px">
+  <img src="python.svg" alt="Python" width="70px" height="70px">
   <br>
   <h3>Environment:</h3>
-  <img src="linux.svg" alt="Linux">
-  <img src="burpsuite?svg" alt="Burpsuite">
-  <img src="sublimetext.svg" alt="Sublime">
-  <img src="jupyter.svg" alt="Jupyter">
-  <img src="figma.svg" alt="Figma">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
+  <img src="linux.svg" alt="Linux" width="70px" height="70px">
+  <img src="burpsuite?svg" alt="Burpsuite" width="70px" height="70px">
+  <img src="sublimetext.svg" alt="Sublime" width="70px" height="70px">
+  <img src="jupyter.svg" alt="Jupyter" width="70px" height="70px">
+  <img src="figma.svg" alt="Figma" width="70px" height="70px">
 </div>
 
 
