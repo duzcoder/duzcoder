@@ -3,7 +3,7 @@
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
   <p>
-    ### Wanna know me?
+    <h3>Wanna know me?</h3>
     <br>
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
