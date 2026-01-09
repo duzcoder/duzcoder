@@ -44,5 +44,5 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
 </div>
 
-<h3><img src="chessdotcom.svg" alt="Pawn" width="30px" height="30px"> Checkmate !</h3>
+<h3>♛ Checkmate !</h3>
 <img src="board1.png" width="200px" height="200px">   <img src="board2.png" width="200px" height="200px">   <img src="board3.png" width="200px" height="200px">
