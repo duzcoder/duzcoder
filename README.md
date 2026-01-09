@@ -16,7 +16,7 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
   </tr>
   <tr>
     <td>
-      <img src="html5.svg" alt="HTML" width="50px" height="50px">&nbsp;
+      <img src="html5.svg" alt="HTML" width="50px" height="50px">
       <img src="css.svg" alt="CSS" width="50px" height="50px">&nbsp;
       <img src="uml.svg" alt="UML" width="50px" height="50px">&nbsp;
       <img src="php.svg" alt="PHP" width="50px" height="50px">
