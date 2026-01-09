@@ -45,4 +45,4 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
 
 <h3><img src="chessdotcom.svg" alt="Pawn" width="30px" height="30px"> Checkmate !</h3>
-<img src="linux.svg" alt="Linux" width="80px" height="80px" title="Linux">   <img src="linux.svg" alt="Linux" width="80px" height="80px" title="Linux">   <img src="linux.svg" alt="Linux" width="80px" height="80px" title="Linux">
+<img src="board1.png" width="80px" height="80px">   <img src="board2.png" width="80px" height="80px">   <img src="board3.png" width="80px" height="80px">
