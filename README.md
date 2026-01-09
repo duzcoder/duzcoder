@@ -16,24 +16,24 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
   </tr>
   <tr>
     <td>
-      <img src="html5.svg" alt="HTML" width="50px" height="50px">&nbsp;
-      <img src="css.svg" alt="CSS" width="50px" height="50px">&nbsp;
-      <img src="uml.svg" alt="UML" width="50px" height="50px">&nbsp;
-      <img src="php.svg" alt="PHP" width="50px" height="50px">&nbsp;
-      <img src="mysql.svg" alt="MySQL" width="50px" height="50px">&nbsp;
+      <img src="html5.svg" alt="HTML" width="50px" height="50px" title="HTML">&nbsp;
+      <img src="css.svg" alt="CSS" width="50px" height="50px" title="CSS">&nbsp;
+      <img src="uml.svg" alt="UML" width="50px" height="50px" title="UML">&nbsp;
+      <img src="php.svg" alt="PHP" width="50px" height="50px" title="PHP">&nbsp;
+      <img src="mysql.svg" alt="MySQL" width="50px" height="50px" title="MySQL">&nbsp;
       <br>
-      <img src="laravel.svg" alt="Laravel" width="50px" height="50px">&nbsp;
-      <img src="bootstrap.svg" alt="Bootstrap" width="50px" height="50px">&nbsp;
-      <img src="tailwindcss.svg" alt="Tailwind" width="50px" height="50px">&nbsp;
-      <img src="c.svg" alt="C" width="50px" height="50px">&nbsp;
-      <img src="python.svg" alt="Python" width="50px" height="50px">&nbsp;
+      <img src="laravel.svg" alt="Laravel" width="50px" height="50px" title="Laravel">&nbsp;
+      <img src="bootstrap.svg" alt="Bootstrap" width="50px" height="50px" title="Bootstrap">&nbsp;
+      <img src="tailwindcss.svg" alt="Tailwind" width="50px" height="50px" title="Tailwind">&nbsp;
+      <img src="c.svg" alt="C" width="50px" height="50px" title="C">&nbsp;
+      <img src="python.svg" alt="Python" width="50px" height="50px" title="Python">&nbsp;
     </td>
     <td>
-      <img src="linux.svg" alt="Linux" width="50px" height="50px">&nbsp;
-      <img src="burpsuite.svg" alt="Burpsuite" width="50px" height="50px">&nbsp;
-      <img src="sublimetext.svg" alt="Sublime" width="50px" height="50px">&nbsp;
-      <img src="jupyter.svg" alt="Jupyter" width="50px" height="50px">&nbsp;
-      <img src="figma.svg" alt="Figma" width="50px" height="50px">&nbsp;
+      <img src="linux.svg" alt="Linux" width="50px" height="50px" title="Linux">&nbsp;
+      <img src="burpsuite.svg" alt="Burpsuite" width="50px" height="50px" title="Burpsuite">&nbsp;
+      <img src="sublimetext.svg" alt="Sublime" width="50px" height="50px" title="Sublime">&nbsp;
+      <img src="jupyter.svg" alt="Jupyter" width="50px" height="50px" title="Jupyter">&nbsp;
+      <img src="figma.svg" alt="Figma" width="50px" height="50px" title="Figma">&nbsp;
     </td>
   </tr>
 </table>
