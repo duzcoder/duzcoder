@@ -2,7 +2,7 @@
 
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
-  <p>Curious mind. Terminal open. Limits questioned.
+  <p>Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
 <div align="center">
