@@ -39,6 +39,12 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </table>
 <br>
 
+<h3><img src="board1.png" width="20px" height="20px"> U like reading?</h3>
+<p>Catch me up on medium:</p>
+[![Duzcoder Medium](https://github-readme-medium.vercel.app/?username=bejdidi)](https://medium.com/@bejdidi)
+
+<br>
+
 <h3>⚡ Special cards:</h3>
 <div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
