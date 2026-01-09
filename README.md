@@ -42,8 +42,8 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 <h3><img src="board1.png" width="20px" height="20px"> U like reading?</h3>
 <p>Catch me up on medium:</p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 1"></a>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 2"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/securinets-isetz-beginners-friendly-ctf-755776b35385"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 1"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/fl1tz-x-securinets-insat-ctf-fcdec84361ed"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 2"></a>
 <br>
 
 <h3>⚡ Special cards:</h3>
