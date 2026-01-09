@@ -8,7 +8,7 @@
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
-
+<br>
 <table>
   <tr>
     <td><h3>🛠 Tech Stack:</h3></td>
@@ -37,11 +37,20 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
     </td>
   </tr>
 </table>
+<br>
 
-
-<div align="center">
+<h3>⚡ Special cards:</h3>
+<table>
+  <tr>
+    <td><div align="center">
   <a href="https://tryhackme.com/p/duzcoder"><img src="https://tryhackme-badges.s3.amazonaws.com/duzcoder.png" alt="TryHackMe Badge"></a>
-</div>
+</div></td>
+    <td><img src="https://img.shields.io/badge/Chess.com-Blitz_1380-blue"></td>
+  </tr>
+</table>
+
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/asma-b-741b19209/" target="_blank">
