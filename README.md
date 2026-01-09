@@ -3,7 +3,7 @@
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
   <p>
-    <h3 style="color: #977555">Wanna know me?</h3>
+    ![Wanna know me?](https://img.shields.io/badge/Wanna%20know%20me%3F-977555?style=for-the-badge&logoColor=white)
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
