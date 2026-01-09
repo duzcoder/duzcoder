@@ -3,15 +3,15 @@
 <img src="63ce00e2752d219dc3eed10af07ada8e.gif">
 <div>
   <p>
-    <h3>Wanna know me?</h3>
+    <h3 style="color: #977555">Wanna know me?</h3>
     Curious mind. Terminal open. Limits questioned.<br>
 Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 </div>
 
 <div>
   <h3>Tech Stack:</h3>
-  <img src="html5.svg" alt="HTML" width="70px" height="70px" style="padding-right: 5px;">
-  <img src="css.svg" alt="CSS" width="70px" height="70px" style="padding-right: 5px;">
+  <img src="html5.svg" alt="HTML" width="70px" height="70px">
+  <img src="css.svg" alt="CSS" width="70px" height="70px">
   <img src="uml.svg" alt="UML" width="70px" height="70px">
   <img src="php.svg" alt="PHP" width="70px" height="70px">
   <img src="mysql.svg" alt="MySQL" width="70px" height="70px">
