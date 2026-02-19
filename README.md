@@ -43,6 +43,10 @@ Building apps, designing visuals, hacking knowledge, shipping progress.</p>
 <p>Catch me up on medium:</p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
 <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bejdidi/0" alt="Recent Article 0"></a>
+<br>
 
 <h2><img src="high-voltage_26a1.png" width="40px" height="40px"> Special cards:</h2>
 <div align="center">
